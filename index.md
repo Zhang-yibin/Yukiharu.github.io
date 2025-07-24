@@ -50,4 +50,4 @@ cover_image: /assets/images/header-bg.jpg
 🐦 推特: [@tech_blogger](https://twitter.com/tech_blogger)  
 💻 GitHub: [github.com/techblogger](https://github.com/techblogger)  
 📱 微信: tech_blogger (扫码添加)  
-![微信二维码](/assets/images/wechat-qr.jpg "微信二维码")
+![微信二维码]("/")
